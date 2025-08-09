@@ -28,10 +28,10 @@ Users can browse, filter, and search products using both structured filters (cat
    http://localhost:
 
 🧠 AI Feature Used
-- Recommendation System with Natural Language Search
-- Uses spaCy's large English model (en_core_web_lg) to compute semantic similarity between the user's query and product metadata.
-- Matches product names, categories, prices, and reviews against the user's intent.
-- Displays the top N recommended products that best match the query.
+- Option C – Recommendation System
+  - Uses spaCy's large English model (en_core_web_lg) to compute semantic similarity between the user's query and product metadata.
+  - Matches product names, categories, prices, and reviews against the user's intent.
+  - Displays the top N recommended products that best match the query.
 
 🛠 Tools / Libraries Used
 - Streamlit – For building the interactive web UI.
