@@ -1,0 +1,37 @@
+[
+  {"name": "Nike Air Zoom Pegasus", "category": "running shoes", "price": 95, "reviews": 4.5, "description": "Lightweight running shoes designed for speed and comfort with responsive cushioning."},
+  {"name": "Adidas Ultraboost 21", "category": "running shoes", "price": 180, "reviews": 4.8, "description": "Premium running shoes with energy-returning cushioning and a snug fit."},
+  {"name": "Puma Velocity Nitro", "category": "running shoes", "price": 120, "reviews": 4.4, "description": "High-performance running shoes with responsive foam for everyday runs."},
+  {"name": "Asics Gel-Kayano 28", "category": "running shoes", "price": 160, "reviews": 4.6, "description": "Stability running shoes with gel cushioning for long-distance comfort."},
+  {"name": "Reebok Floatride Energy", "category": "running shoes", "price": 90, "reviews": 4.3, "description": "Lightweight shoes with responsive foam cushioning for versatile running."},
+
+  {"name": "Nike Dri-FIT Cap", "category": "cap", "price": 25, "reviews": 4.3, "description": "Breathable cap with sweat-wicking fabric for outdoor workouts."},
+  {"name": "Adidas Climacool Cap", "category": "cap", "price": 28, "reviews": 4.2, "description": "Cooling cap with ventilation panels to keep your head cool."},
+  {"name": "Brooks Running Cap", "category": "cap", "price": 20, "reviews": 4.1, "description": "Lightweight running cap with adjustable fit."},
+  {"name": "Puma Training Cap", "category": "cap", "price": 24, "reviews": 4.4, "description": "Sporty cap for training and casual wear."},
+  {"name": "Reebok Performance Cap", "category": "cap", "price": 22, "reviews": 4.3, "description": "Durable cap made for active lifestyles."},
+
+  {"name": "Nike Elite Backpack", "category": "bag", "price": 75, "reviews": 4.7, "description": "Spacious backpack with multiple compartments for sports and travel."},
+  {"name": "Adidas Prime Backpack", "category": "bag", "price": 70, "reviews": 4.5, "description": "Durable backpack with water-resistant fabric."},
+  {"name": "Puma Sports Bag", "category": "bag", "price": 50, "reviews": 4.5, "description": "Compact sports bag perfect for gym essentials."},
+  {"name": "Reebok Gym Bag", "category": "bag", "price": 45, "reviews": 4.4, "description": "Lightweight duffel bag for fitness enthusiasts."},
+  {"name": "Under Armour Undeniable Duffel", "category": "bag", "price": 60, "reviews": 4.6, "description": "Water-resistant duffel bag with large storage capacity."},
+
+  {"name": "Nike Joggers", "category": "pants", "price": 60, "reviews": 4.4, "description": "Comfortable joggers with a tapered fit for daily wear."},
+  {"name": "Adidas Track Pants", "category": "pants", "price": 65, "reviews": 4.5, "description": "Classic track pants with breathable fabric."},
+  {"name": "Puma Training Pants", "category": "pants", "price": 55, "reviews": 4.3, "description": "Flexible pants designed for workouts."},
+  {"name": "Reebok Sweatpants", "category": "pants", "price": 50, "reviews": 4.2, "description": "Cozy sweatpants ideal for lounging or training."},
+  {"name": "Under Armour Tapered Pants", "category": "pants", "price": 70, "reviews": 4.6, "description": "Athletic pants with a comfortable fit for sports and travel."},
+
+  {"name": "Nike Everyday Socks", "category": "socks", "price": 12, "reviews": 4.3, "description": "Soft, breathable socks for daily comfort."},
+  {"name": "Adidas Performance Socks", "category": "socks", "price": 14, "reviews": 4.4, "description": "Moisture-wicking socks designed for training."},
+  {"name": "Puma Training Socks", "category": "socks", "price": 10, "reviews": 4.2, "description": "Lightweight socks ideal for gym workouts."},
+  {"name": "Reebok Sports Socks", "category": "socks", "price": 13, "reviews": 4.3, "description": "Durable socks for active use."},
+  {"name": "Brooks Running Socks", "category": "socks", "price": 15, "reviews": 4.4, "description": "Cushioned running socks for long-distance comfort."},
+
+  {"name": "Nike Yoga Mat", "category": "yoga mat", "price": 55, "reviews": 4.5, "description": "Non-slip yoga mat for stability during practice."},
+  {"name": "Adidas Yoga Mat", "category": "yoga mat", "price": 50, "reviews": 4.4, "description": "Comfortable yoga mat with cushioning support."},
+  {"name": "Puma Yoga Mat", "category": "yoga mat", "price": 48, "reviews": 4.3, "description": "Lightweight yoga mat for easy transport."},
+  {"name": "Reebok Yoga Mat", "category": "yoga mat", "price": 52, "reviews": 4.5, "description": "Durable yoga mat with textured surface."},
+  {"name": "Under Armour Yoga Mat", "category": "yoga mat", "price": 60, "reviews": 4.6, "description": "Extra-thick yoga mat for joint protection."}
+]
